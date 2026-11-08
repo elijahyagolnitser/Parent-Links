@@ -1,0 +1,10 @@
+{
+  "id": "parent-links",
+  "name": "Parent Folder Links",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Adds wikilink breadcrumbs to parent folder notes.",
+  "author": "Elijah Y.",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
